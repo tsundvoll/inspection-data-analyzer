@@ -13,7 +13,7 @@ namespace api.MQTT
             new()
             {
                 {
-                    "isar/+/inspeection_result", typeof(IsarInspectionResultMessage)
+                    "isar/+/inspection_result", typeof(IsarInspectionResultMessage)
                 }
             };
 
